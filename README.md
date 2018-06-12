@@ -1,0 +1,1 @@
+# Asus-Zenfone-ZB500KG-Model-X00BD-Required-Files
