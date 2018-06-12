@@ -3,9 +3,18 @@
 Updated link:
 
 Driver usb : https://goo.gl/vG1wmx (Driver adb pda net) 
+
 Flashtool : https://goo.gl/QUG6RG (minimal_adb_fastboot) 
+
 Firmware : https://goo.gl/vZCFWG
 
+Official Stock ROM: http://dlcdnet.asus.com/pub/ASUS/ZenFone/ZB500KG/WW_ZB500KG_8610-12.0.0.0131-20170222.zip
+
+Note if you flash Original Stock ROM 
+After flashing you can now download latest version from Official Site:
+
+Copy .zip to external external sd card and update via Recovery Mode to Update latest version.
+http://dlcdnet.asus.com/pub/ASUS/ZenFone/ZB500KG/UL-ZB500KG_ASUS_X00BD-WW-12.0.0.0153-user.zip
 
 Fix : 
 
